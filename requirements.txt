@@ -1,0 +1,7 @@
+pybdm
+torch
+torchvision
+pandas
+setuptools<82
+scikit-learn
+matplotlib
